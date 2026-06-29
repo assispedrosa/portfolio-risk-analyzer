@@ -8,6 +8,8 @@ historical crises** — in a clean Streamlit UI.
 Runs on deterministic synthetic data out of the box (no setup, no internet),
 or pulls live adjusted prices from Yahoo Finance.
 
+![Portfolio Risk Analyzer dashboard](docs/screenshot.png)
+
 > Built to be read as much as run: the risk engine is a small, dependency-light
 > module (`risk.py`) with unit tests, kept separate from the UI so it can be
 > reused in a notebook or behind an API.
