@@ -1,5 +1,9 @@
 # Portfolio Risk Analyzer
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-FF4B4B?logo=streamlit&logoColor=white)](https://ap-portfolio-risk-analyzer.streamlit.app/)
+
+**▶ Try it live: [ap-portfolio-risk-analyzer.streamlit.app](https://ap-portfolio-risk-analyzer.streamlit.app/)** — no install required.
+
 An interactive quant-risk dashboard for multi-asset portfolios. Point it at a
 set of holdings and it reports **volatility, Value-at-Risk (three methods),
 Expected Shortfall, the correlation structure, and stress tests against real
